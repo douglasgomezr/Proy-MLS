@@ -6,4 +6,4 @@ Listado de los cuadernos de trabajo (archivos .ipynb):
   * Construcción de archivo PDF
   
 # Licencia
-Este proyecto está bajo la licencia MIT. Para más detalles, consulte el archivo LICENSE.
+Este proyecto está bajo la licencia MIT. Para más detalles, consulte el archivo [LICENSE](https://github.com/douglasgomezr/Utilerias/blob/master/LICENSE).
